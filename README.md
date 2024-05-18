@@ -23,6 +23,7 @@ The following are websites for radio stations (both online and terrestrial) that
 * [WRFL - University of Kentucky](https://wrfl.fm/)
 * [WFMU - Upsala College](https://wfmu.org/)
 * [WRCP - University of Paris](https://www.radiocampusparis.org/)
+* [WNYU - New York University](https://wnyu.org/)
 
 ### General
 
@@ -32,6 +33,9 @@ The following are websites for radio stations (both online and terrestrial) that
 * [Nightwave Plaza](https://plaza.one/)
 * [Poolsuite FM](https://poolsuite.net/)
 * [Radio Paradise](https://radioparadise.com/home)
+* [Best Frequencies Forever](https://bff.fm/)
+* [coma.omFM.ru](https://coma.omfm.ru)
+* [TruckStopRadio](https://truckstopradio.co.uk/)
 
 ## Info
 
@@ -39,7 +43,7 @@ I'm the station manager for [WBOR - Bowdoin College](https://wbor.org/) and buil
 
 ### Data Sources
 
-So far I've reviewed [this list](https://github.com/xehl/campus-fm/blob/e560046ecf665344a92d2260a9bdab5f20e5711f/src/stations.js).
+So far I've reviewed [this list](https://github.com/xehl/campus-fm/blob/e560046ecf665344a92d2260a9bdab5f20e5711f/src/stations.js) in addition to #share-your-station on [AzuraCast](https://www.azuracast.com/)'s Discord server.
 
 ### Contributing
 

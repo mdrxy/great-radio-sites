@@ -122,3 +122,16 @@ These are the sites I've looked at so far.
 * [WVPH - Rutgers University](https://www.thecore.fm/)
 * [WSOU - Seton Hall University](https://www.wsou.net/)
 * [WVCR - Siena College](https://www.wvcr.com/)
+* [Radio DePaul - DePaul University](https://radiodepaul.com/)
+* [WVUD - University of Delaware](https://www.wvud.org/)
+
+## General
+
+* [Lahmacun Radio](https://lahmacun.hu/)
+* [Now Wave Radio](https://nowwave.radio)
+* [Mugadavanje Radio](https://mugadavanje.rs/)
+* [Wax Radio](https://www.waxradioindy.com/)
+* [SCIFI.radio](https://scifi.radio/)
+* [Japanisu](https://www.radioani.me/)
+* [KSQD Community Radio](https://ksqd.org/schedule/)
+* [KDNK Community Radio](https://www.kdnk.org/)
