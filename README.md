@@ -46,7 +46,7 @@ I'm the station manager for [WBOR - Bowdoin College](https://wbor.org/) and buil
 
 ### Data Sources
 
-So far I've reviewed [this list](https://github.com/xehl/campus-fm/blob/e560046ecf665344a92d2260a9bdab5f20e5711f/src/stations.js) in addition to #share-your-station on [AzuraCast](https://www.azuracast.com/)'s Discord server.
+So far I've reviewed [this list](https://github.com/xehl/campus-fm/blob/e560046ecf665344a92d2260a9bdab5f20e5711f/src/stations.js) in addition to the (now-removed) #share-your-station channel on [AzuraCast](https://www.azuracast.com/)'s Discord server.
 
 ### Contributing
 
