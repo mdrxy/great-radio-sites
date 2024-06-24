@@ -124,6 +124,7 @@ These are the sites I've looked at so far.
 * [WVCR - Siena College](https://www.wvcr.com/)
 * [Radio DePaul - DePaul University](https://radiodepaul.com/)
 * [WVUD - University of Delaware](https://www.wvud.org/)
+* [KUSF - University of San Francisco](http://www.kusf.org/)
 
 ## General
 

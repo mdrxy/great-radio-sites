@@ -11,6 +11,7 @@ The following are websites for radio stations (both online and terrestrial) that
 * [WXTJ - University of Virginia](https://www.wxtj.fm/)
 * [KTUH - University of Hawaii at Manoa](https://ktuh.org/)
 * [WRBB - Northeastern University](https://wrbbradio.org/)
+* [KSCU - Santa Clara University](https://kscu.org/)
 
 #### Honorable Mentions
 
@@ -36,6 +37,8 @@ The following are websites for radio stations (both online and terrestrial) that
 * [Best Frequencies Forever](https://bff.fm/)
 * [coma.omFM.ru](https://coma.omfm.ru)
 * [TruckStopRadio](https://truckstopradio.co.uk/)
+* [KWMR - Point Reyes Community Radio](https://kwmr.org/)
+* [Japanisu](https://www.japanisu.com/)
 
 ## Info
 
