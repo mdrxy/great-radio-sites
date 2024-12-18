@@ -125,6 +125,8 @@ These are the sites I've looked at so far.
 * [Radio DePaul - DePaul University](https://radiodepaul.com/)
 * [WVUD - University of Delaware](https://www.wvud.org/)
 * [KUSF - University of San Francisco](http://www.kusf.org/)
+* [WVKR - Vassar College](https://www.wvkr.org/)
+* [KVCU Radio 1190 - University of Colorado Boulder](https://1190.radio)
 
 ## General
 
@@ -133,6 +135,8 @@ These are the sites I've looked at so far.
 * [Mugadavanje Radio](https://mugadavanje.rs/)
 * [Wax Radio](https://www.waxradioindy.com/)
 * [SCIFI.radio](https://scifi.radio/)
-* [Japanisu](https://www.radioani.me/)
 * [KSQD Community Radio](https://ksqd.org/schedule/)
 * [KDNK Community Radio](https://www.kdnk.org/)
+* [KPISS](https://kpiss.fm/)
+* [KGVM - Gallatin Valley Community Radio](https://kgvm.org/)
+* [WSCA - Portsmouth Community Radio](https://wscafm.org)
